@@ -1,0 +1,7 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+section{
+    display: flex;
+}
