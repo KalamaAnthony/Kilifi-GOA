@@ -4,4 +4,8 @@ body{
 }
 section{
     display: flex;
+    text-align: center;
+}
+section h2{
+    color: brown;
 }
